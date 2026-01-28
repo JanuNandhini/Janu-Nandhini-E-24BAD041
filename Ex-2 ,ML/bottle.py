@@ -1,4 +1,4 @@
-print('E.Janu nandhini,24BAD041")
+print("E.Janu nandhini,24BAD041")
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -43,3 +43,4 @@ plt.xlabel("Actual Temperature")
 plt.ylabel("Predicted Temperature")
 plt.title("Actual vs Predicted Temperature")
 plt.show()
+
